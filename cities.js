@@ -1,20 +1,11 @@
 const mississippiCities = [
-  "Louisville", "Lucedale", "Ludlow", "Lumberton", "Macon",
-  "Madison", "Magee", "Magnolia", "Mantachie", "Marion",
-  "Marks", "Mccomb", "Mcneill", "Meadville", "Mendenhall",
-  "Meridian", "Monticello", "Mooreville", "Moorhead", "Morton",
-  "Moselle", "Moss Point", "Mount Olive", "Natchez", "Nesbit",
-  "New Albany", "Newton", "Oakland", "Ocean Springs", "Okolona",
-  "Olive Branch", "Oxford", "Paris", "Pascagoula", "Pass Christian",
-  "Pearl", "Pelahatchie", "Perkinston", "Petal", "Pheba",
-  "Philadelphia", "Picayune", "Pickens", "Plantersville", "Pontotoc",
-  "Poplarville", "Port Gibson", "Potts Camp", "Prentiss", "Purvis",
-  "Quitman", "Raleigh", "Randolph", "Raymond", "Red Banks",
-  "Richland", "Richton", "Ridgeland", "Rienzi", "Ripley",
-  "Rolling Fork", "Roxie", "Ruleville", "Saltillo", "Sardis",
-  "Satartia", "Saucier", "Scobey", "Scott", "Sebastopol",
-  "Seminary", "Senatobia", "Shaw", "Shubuta", "Silver Creek",
-  "Smithdale", "Soso", "Southaven", "Star", "Starkville",
+  "Steens", "Stringer", "Summit", "Sumner", "Sumrall",
+  "Sunflower", "Taylorsville", "Terry", "Tishomingo", "Toomsuba",
+  "Tremont", "Tunica", "Tupelo", "Tylertown", "Union",
+  "Utica", "Vancleave", "Verona", "Vicksburg", "Walls",
+  "Walnut", "Walnut Grove", "Water Valley", "Waveland", "Waynesboro",
+  "Webb", "Wesson", "West Point", "Wiggins", "Winona",
+  "Winstonville", "Woodville", "Yazoo City",
 ];
 
 const BATCH_SIZE = 5;
